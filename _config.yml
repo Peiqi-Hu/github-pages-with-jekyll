@@ -1,13 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Hello There XD
+author: Chang Bai
+email: changbai_817@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, this is Changbai, not real name hhh, just a nickname I always use online. 
+  This will be the place I am going to write down whatever new I did or I will do. 
+  I will also share my personal experiences on doing things.
+  My goal is to make something eventually which may not useful and even boring for others, but let's enjoy the process of learning and trials and errors.
+  My mistakes and stories mostly are silly hhh, but bear with me since I am the person who will need lots more time to being good at something.
+  And lastly, nice to meet you. Hope you can find something helpful or feel fun here. 
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: ???
+github_username:  ChangBai
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima 
